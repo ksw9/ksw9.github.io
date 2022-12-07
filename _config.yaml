@@ -10,12 +10,9 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: katharine.walter@hsc.utah.edu
+  google-scholar: https://scholar.google.com/citations?user=YVa4e_UAAAAJ&hl=en&inst=8389273007308439986
+  github: ksw9
 
 ### advanced settings
 
