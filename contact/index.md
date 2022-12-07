@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology), at the school of [University of Utah](https://medicine.utah.edu/). We are nestled in the foothills of the Wasatch Mountains, across from the Red Butte Gardens. 
+
 
 {%
   include link.html
