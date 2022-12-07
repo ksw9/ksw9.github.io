@@ -5,6 +5,6 @@ nav:
   tooltip: Writing about health and environmental change. 
 ---
 
-Testing
 
-How the Other Half Dies[https://www.bostonreview.net/articles/how-the-other-half-dies/]
+[How the Other Half Dies](https://www.bostonreview.net/articles/how-the-other-half-dies/), Boston Review
+
