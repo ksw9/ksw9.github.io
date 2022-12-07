@@ -14,20 +14,12 @@ Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/inte
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="katharine.walter@hsc.utah.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="katharine.walter@hsc.utah.edu"
   style="button"
 %}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
+
 {%
   include link.html
   type="address"
