@@ -34,8 +34,7 @@ Pathogen evolution | epidemiology | environmental change group
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Join us! There are many opportunities for undergraduates, graduates, and postdoctoral fellows to do research. Utah is a beautiful place to live and work. 
 
 {%
   include link.html
