@@ -53,7 +53,7 @@ Our group is part of the Division of Epidemiology at the University of Utah, nes
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Join us!"
   flip=true
   text=text
 %}
@@ -64,7 +64,7 @@ We work across disciplines and departments—please reach out to discuss project
 {%
   include link.html
   link="team"
-  text="Meet our team"
+  text="Current opportunities"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -75,6 +75,6 @@ We work across disciplines and departments—please reach out to discuss project
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Join us!"
   text=text
 %}
