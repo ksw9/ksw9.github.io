@@ -9,7 +9,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/solitude.jpg" %}
+{% include banner.html image="images/solitude.jpeg" %}
 
 {% include section.html %}
 
