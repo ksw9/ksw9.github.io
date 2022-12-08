@@ -2,27 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
-
-Pathogen evolution | epidemiology | environmental change group
+# epidemiology · evolution · environmental change
 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -34,7 +16,7 @@ Pathogen evolution | epidemiology | environmental change group
 # Highlights
 
 {% capture text %}
-Join us! There are many opportunities for undergraduates, graduates, and postdoctoral fellows to do research. Utah is a beautiful place to live and work. 
+Pathogen evolution creates an extraordinary epidemiological record. We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on M. tuberculosis. Our goal is to directly inform public health in low-income settings. 
 
 {%
   include link.html
@@ -55,8 +37,7 @@ Join us! There are many opportunities for undergraduates, graduates, and postdoc
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our group is part of the Division of Epidemiology at the University of Utah, nestled into the foothills of the Wasatch Mountains. Our lab sits on unceded territory named for the Ute Tribe that is the ancestral homeland of the Shoshone, Paiute, Goshute, and Ute Tribes. We honor this history and the relationship these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
 
 {%
   include link.html
@@ -78,7 +59,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We work across disciplines and departments—please reach out to discuss projects!
 
 {%
   include link.html
@@ -97,7 +78,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
