@@ -9,7 +9,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/solitude.jpg" %}
 
 {% include section.html %}
 
@@ -53,7 +53,7 @@ Our group is part of the Division of Epidemiology at the University of Utah, nes
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Join us!"
+  title="Our location"
   flip=true
   text=text
 %}
