@@ -65,10 +65,113 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
-- id: orcid:0000-0003-0065-2204
-  title: ORCID
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://orcid.org/0000-0003-0065-2204
-  _cache: 1a7342f123b98d430e0639dd12b878cc9b9666252de4d2fc2a839b2f53bb5bd5
+- id: doi:10.1101/2022.08.23.22279039
+  title: Phylogeography and transmission of <i>M. tuberculosis</i> spanning prisons
+    and surrounding communities in Paraguay
+  authors:
+  - Gladys Estigarribia Sanabria
+  - Guillermo Sequera
+  - Sarita Aguirre
+  - "Julieta M\xE9ndez"
+  - "Paulo C\xE9sar Pereira dos Santos"
+  - Natalie Weiler Gustafson
+  - "Anal\xEDa Ortiz"
+  - Cynthia Cespedes
+  - "Gloria Mart\xEDnez"
+  - "Alberto L. Garc\xEDa-Basteiro"
+  - Jason R. Andrews
+  - Julio Croda
+  - Katharine S. Walter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-25'
+  link: https://doi.org/grgkzq
+  tags:
+  - tb
+  - incarceration
+  _cache: 5b1ecc6c4d6f17a0d313dff4e920f23f79a11930d9e625b717d0e432d4bb6609
+- id: doi:10.5588/ijtld.21.0449
+  title: The effect of incarceration on TB treatment outcomes
+  authors:
+  - "J. M. O\xB4Marr"
+  - "C. Gon\xE7alves"
+  - D. Arakaki-Sanchez
+  - D. M. Pelissari
+  - F. D. Costa
+  - J. Croda
+  - K. S. Walter
+  - J. R. Andrews
+  publisher: The International Journal of Tuberculosis and Lung Disease
+  date: '2022-03-01'
+  link: https://doi.org/grgkzr
+  tags:
+  - tb
+  - incarceration
+  _cache: f491e20bb314277473120331d15f160b4d9614c7f3bde0d969fb5923e88fdbcf
+- id: doi:10.1016/j.lana.2022.100186
+  title: 'The role of prisons in disseminating tuberculosis in Brazil: A genomic epidemiology
+    study'
+  authors:
+  - Katharine S. Walter
+  - "Paulo C\xE9sar Pereira dos Santos"
+  - "Thais Oliveira Gon\xE7alves"
+  - Bruna Oliveira da Silva
+  - Andrea da Silva Santos
+  - "Alessandra de C\xE1ssia Leite"
+  - Alessandra Moura da Silva
+  - Flora Martinez Figueira Moreira
+  - Roberto Dias de Oliveira
+  - Everton Ferreira Lemos
+  - Eunice Cunha
+  - Yiran E. Liu
+  - Albert I. Ko
+  - Caroline Colijn
+  - Ted Cohen
+  - Barun Mathema
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: The Lancet Regional Health - Americas
+  date: '2022-05-01'
+  link: https://doi.org/gqjbkt
+  tags:
+  - tb
+  - incarceration
+  _cache: 6086fb1eecbaf3beb0a9ea9bea553afc317bde4fa712bbab408144609743a73f
+- id: doi:10.1093/ofid/ofab600
+  title: Variation in Severe Acute Respiratory Syndrome Coronavirus 2 Bioaerosol Production
+    in Exhaled Breath
+  authors:
+  - Renu Verma
+  - Eugene Kim
+  - Nicholas Degner
+  - Katharine S Walter
+  - Upinder Singh
+  - Jason R Andrews
+  publisher: Open Forum Infectious Diseases
+  date: '2021-12-01'
+  link: https://doi.org/gpc4n9
+  tags: -sars-cov-2
+  _cache: 0be993dd1e4cfc6fa0078c984a749fb4385f6b807678f25361ff5817b879bd7d
+- id: doi:10.1016/j.scitotenv.2022.156970
+  title: Detection of M. tuberculosis in the environment as a tool for identifying
+    high-risk locations for tuberculosis transmission
+  authors:
+  - Renu Verma
+  - Flora Martinez Figueira Moreira
+  - Agne Oliveira do Prado Morais
+  - Katharine S. Walter
+  - "Paulo C\xE9sar Pereira dos Santos"
+  - Eugene Kim
+  - Thiego Ramon Soares
+  - Rafaele Carla Pivetta de Araujo
+  - Bruna Oliveira da Silva
+  - Andrea da Silva Santos
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: Science of The Total Environment
+  date: '2022-10-01'
+  link: https://doi.org/gq5w96
+  tags:
+  - tb
+  - environmental sampling
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
+  _cache: b8ec3182e255739f165c34037306a24b8d96160246209e5cc38ed8bd45dd6550
