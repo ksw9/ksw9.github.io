@@ -31,4 +31,22 @@
     - type: source
       link: https://github.com/greenelab/scihub
       text: Analyses source
-- id: orcid:0000-0003-0065-2204
+
+- id: doi:10.1101/2022.08.23.22279039
+- id: doi:10.5588/ijtld.21.0449
+- id: doi:10.1016/j.lana.2022.100186
+- id: doi:10.1093/ofid/ofab600
+- id: doi:10.1016/j.scitotenv.2022.156970
+- id: doi:10.1101/2022.05.26.22275279
+- id: doi:10.1093/cid/ciac312
+- id: doi:10.1371/journal.pmed.1003789
+- id: doi:10.1016/S2468-2667(21)00025-6
+- id: doi:10.3201/eid2703.203839
+- id: doi:10.1016/S0140-6736(20)32578-2
+- id: doi:10.1101/2021.11.30.21266839
+- id: doi:10.1007/s11538-021-00896-2
+- id: doi:10.1099/mgen.0.000418
+- id: doi:orcid:0000-0003-0065-2204
+- id: pmid:31048345
+- id: pmid:30677013
+- id: 
