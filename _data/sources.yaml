@@ -35,10 +35,23 @@
 - id: doi:10.1101/2022.08.23.22279039
   tags:
     - tb
+    - incarceration
 - id: doi:10.5588/ijtld.21.0449
+  tags:
+    - tb
+    - incarceration
 - id: doi:10.1016/j.lana.2022.100186
+  tags:
+    - tb
+    - incarceration
 - id: doi:10.1093/ofid/ofab600
+  tags:
+    -sars-cov-2
 - id: doi:10.1016/j.scitotenv.2022.156970
+  tags:
+    - tb
+    - environmental sampling
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
 - id: doi:10.1101/2022.05.26.22275279
 - id: doi:10.1093/cid/ciac312
 - id: doi:10.1371/journal.pmed.1003789
