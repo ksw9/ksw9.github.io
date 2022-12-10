@@ -87,8 +87,9 @@
   link: https://doi.org/grgkzq
   tags:
   - tb
+  - genomics
   - incarceration
-  _cache: 5b1ecc6c4d6f17a0d313dff4e920f23f79a11930d9e625b717d0e432d4bb6609
+  _cache: 88a20700395d67d2f994971d1c05b73f60df1022e0eb98b81d2bf9423f692f2d
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
@@ -149,8 +150,9 @@
   publisher: Open Forum Infectious Diseases
   date: '2021-12-01'
   link: https://doi.org/gpc4n9
-  tags: -sars-cov-2
-  _cache: 0be993dd1e4cfc6fa0078c984a749fb4385f6b807678f25361ff5817b879bd7d
+  tags:
+  - sars-cov-2
+  _cache: 6879fb168a09f62589bdf4e47fedafe65f7e6a685e800e91bde00b7484c2cfc9
 - id: doi:10.1016/j.scitotenv.2022.156970
   title: Detection of M. tuberculosis in the environment as a tool for identifying
     high-risk locations for tuberculosis transmission
@@ -175,3 +177,196 @@
   - environmental sampling
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
   _cache: b8ec3182e255739f165c34037306a24b8d96160246209e5cc38ed8bd45dd6550
+- id: doi:10.1101/2022.05.26.22275279
+  title: Shared within-host SARS-CoV-2 variation in households
+  authors:
+  - Katharine S. Walter
+  - Eugene Kim
+  - Renu Verma
+  - Jonathan Altamirano
+  - Sean Leary
+  - Yuan J. Carrington
+  - Prasanna Jagannathan
+  - Upinder Singh
+  - Marisa Holubar
+  - Aruna Subramanian
+  - Chaitan Khosla
+  - Yvonne Maldonado
+  - Jason R. Andrews
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-27'
+  link: https://doi.org/grgkzs
+  _cache: f922090dec1204dc3f614df325ef22e7cc79f230c648a9227dd7a87f3e78c0e4
+- id: doi:10.1093/cid/ciac312
+  title: 'Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated
+    Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase
+    2 Trial'
+  authors:
+  - Marisa Holubar
+  - Aruna Subramanian
+  - Natasha Purington
+  - Haley Hedlin
+  - Bryan Bunning
+  - Katharine S Walter
+  - Hector Bonilla
+  - Athanasia Boumis
+  - Michael Chen
+  - Kimberly Clinton
+  - Liisa Dewhurst
+  - Carol Epstein
+  - Prasanna Jagannathan
+  - Richard H Kaszynski
+  - Lori Panu
+  - Julie Parsonnet
+  - Elizabeth L Ponder
+  - Orlando Quintero
+  - Elizabeth Sefton
+  - Upinder Singh
+  - Luke Soberanis
+  - Henry Truong
+  - Jason R Andrews
+  - Manisha Desai
+  - Chaitan Khosla
+  - Yvonne Maldonado
+  publisher: Clinical Infectious Diseases
+  date: '2022-04-21'
+  link: https://doi.org/grgkzt
+  _cache: a6436e830df49c9e0d83e48b9b46cbaed2a1189dc3c95c2cfbfa50128b7e66a4
+- id: doi:10.1371/journal.pmed.1003789
+  title: 'All-cause and cause-specific mortality during and following incarceration
+    in Brazil: A retrospective cohort study'
+  authors:
+  - Yiran E. Liu
+  - Everton Ferreira Lemos
+  - "Crhistinne Cavalheiro Maymone Gon\xE7alves"
+  - Roberto Dias de Oliveira
+  - Andrea da Silva Santos
+  - Agne Oliveira do Prado Morais
+  - Mariana Garcia Croda
+  - Maria de Lourdes Delgado Alves
+  - Julio Croda
+  - Katharine S. Walter
+  - Jason R. Andrews
+  publisher: PLOS Medicine
+  date: '2021-09-17'
+  link: https://doi.org/grgkzv
+  _cache: 050436964162a530d3743a88887ee18e1fdf8b7929ce568b14274d5ca7899179
+- id: doi:10.1016/S2468-2667(21)00025-6
+  title: 'Incidence and prevalence of tuberculosis in incarcerated populations: a
+    systematic review and meta-analysis'
+  authors:
+  - Olivia Cords
+  - Leonardo Martinez
+  - Joshua L Warren
+  - Jamieson Michael O'Marr
+  - Katharine S Walter
+  - Ted Cohen
+  - Jimmy Zheng
+  - Albert I Ko
+  - Julio Croda
+  - Jason R Andrews
+  publisher: The Lancet Public Health
+  date: '2021-05-01'
+  link: https://doi.org/grgkzw
+  _cache: 603c33a8e4248393970e1e35e0cf8d9f3a13c8c0dd5c7e29036b377eb522a4c1
+- id: doi:10.3201/eid2703.203839
+  title: "Local and Travel-Associated Transmission of Tuberculosis at Central Western\
+    \ Border of Brazil, 2014\u20132017"
+  authors:
+  - Katharine S. Walter
+  - Mariana Bento Tatara
+  - Kesia Esther da Silva
+  - Flora Martinez Figueira Moreira
+  - Paulo Cesar Pereira dos Santos
+  - "D\xE2ndrea Driely de Melo Ferrari"
+  - Eunice Atsuko Cunha
+  - Jason R. Andrews
+  - Julio Croda
+  publisher: Emerging Infectious Diseases
+  date: '2021-03-01'
+  link: https://doi.org/grgkzx
+  _cache: f664be508c53bbeff96f3ba4ed49f370dd93df91aacb31fdd6dfa3818ebdffb2
+- id: doi:10.1016/S0140-6736(20)32578-2
+  title: The escalating tuberculosis crisis in central and South American prisons
+  authors:
+  - Katharine S Walter
+  - Leonardo Martinez
+  - Denise Arakaki-Sanchez
+  - Victor G Sequera
+  - G Estigarribia Sanabria
+  - Ted Cohen
+  - Albert I Ko
+  - "Alberto L Garc\xEDa-Basteiro"
+  - Zulma Vanessa Rueda
+  - "Rafael A L\xF3pez-Olarte"
+  - Marcos A Espinal
+  - Julio Croda
+  - Jason R Andrews
+  publisher: The Lancet
+  date: '2021-04-01'
+  link: https://doi.org/grgkzz
+  _cache: f7cc4cdac6014fae24e88e5872347d50a5b30cb1b8b4ad1a9ac387c7749d76db
+- id: doi:10.1101/2021.11.30.21266839
+  title: "Use of rapid molecular tuberculosis diagnostics across Brazil\u2019s incarcerated\
+    \ population"
+  authors:
+  - Elinor B. Fajer
+  - Fernanda Dockhorn Costa
+  - Daniele Maria Pelissari
+  - Fredi Alexander Diaz Quijano
+  - Artemir Coelho de Brito
+  - Eunice Atsuko Totumi Cunha
+  - Julio Croda
+  - Jason R. Andrews
+  - Katharine S. Walter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-02'
+  link: https://doi.org/grgkz2
+  _cache: 228532cc22f1a238f157dfbfac8fe9bf5fa45d8f4ee2a29671f8e4593fdc6360
+- id: doi:10.1007/s11538-021-00896-2
+  title: Host Specialisation, Immune Cross-Reaction and the Composition of Communities
+    of Co-circulating Borrelia Strains
+  authors:
+  - Ben Adams
+  - Katharine S Walter
+  - Maria A. Diuk-Wasser
+  publisher: Bulletin of Mathematical Biology
+  date: '2021-05-03'
+  link: https://doi.org/grgkz3
+  _cache: 78c6b1f0b67c0a0c01ae5ba7eb46aac856a97284b5b748c9838dfeac02d0d2d7
+- id: doi:10.1101/2021.11.30.21266839
+  title: "Use of rapid molecular tuberculosis diagnostics across Brazil\u2019s incarcerated\
+    \ population"
+  authors:
+  - Elinor B. Fajer
+  - Fernanda Dockhorn Costa
+  - Daniele Maria Pelissari
+  - Fredi Alexander Diaz Quijano
+  - Artemir Coelho de Brito
+  - Eunice Atsuko Totumi Cunha
+  - Julio Croda
+  - Jason R. Andrews
+  - Katharine S. Walter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-02'
+  link: https://doi.org/grgkz2
+  _cache: 228532cc22f1a238f157dfbfac8fe9bf5fa45d8f4ee2a29671f8e4593fdc6360
+- id: doi:10.1099/mgen.0.000418
+  title: Genomic variant-identification methods may alter Mycobacterium tuberculosis
+    transmission inferences
+  authors:
+  - Katharine S. Walter
+  - Caroline Colijn
+  - Ted Cohen
+  - Barun Mathema
+  - Qingyun Liu
+  - Jolene Bowers
+  - David M. Engelthaler
+  - Apurva Narechania
+  - Darrin Lemmer
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: Microbial Genomics
+  date: '2020-08-01'
+  link: https://doi.org/gpf4zg
+  _cache: 056151f3cf9693a43a159f5c925d9a7d97964c40ec7a01fc64be606c749f8145
