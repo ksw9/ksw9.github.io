@@ -65,3 +65,10 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: orcid:0000-0003-0065-2204
+  title: ORCID
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://orcid.org/0000-0003-0065-2204
+  _cache: 1a7342f123b98d430e0639dd12b878cc9b9666252de4d2fc2a839b2f53bb5bd5
