@@ -6,4 +6,4 @@ role: alumni
 
 ---
 
-Ellie worked in the lab as an undergraduate King Center Fellow.  Her work demonstrated that incarcerated populations have access to different TB diagnostics in Brazil. 
+Ellie worked in the lab as an undergraduate Stanford University King Center Fellow. Her work demonstrated that incarcerated populations have access to different TB diagnostics in Brazil. 
