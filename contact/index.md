@@ -26,7 +26,7 @@ Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/inte
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/dir//295+Chipeta+Way,+Salt+Lake+City,+UT+84108/@40.7645315,-111.8279308,17z/data=!4m17!1m7!3m6!1s0x87525fc73e917fef:0x562ee99f856b7c51!2s295+Chipeta+Way,+Salt+Lake+City,+UT+84108!3b1!8m2!3d40.7645315!4d-111.8257421!4m8!1m0!1m5!1m1!1s0x87525fc73e917fef:0x562ee99f856b7c51!2m2!1d-111.8257421!2d40.7645315!3e2"
   style="button"
 %}
 {:.center}
@@ -35,9 +35,9 @@ Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/inte
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Division of Epidemiology 
+295 Chipeta Way
+Salt Lake City, UT 84108
 {:.center}
 
 {% capture col1 %}
