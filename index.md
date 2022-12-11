@@ -24,7 +24,8 @@ Pathogen evolution creates an extraordinary epidemiological record. We develop a
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
-%} {:.center} {% endcapture %}
+%} 
+{:.center} {% endcapture %}
 
 {%
   include feature.html
@@ -43,7 +44,8 @@ We work across disciplines and departments and have several research openings fo
   text="Current opportunities"
   icon="fas fa-arrow-right"
   flip=true
-%} {:.center} {% endcapture %}
+%} 
+{:.center} {% endcapture %}
 
 {%
   include feature.html
@@ -62,7 +64,8 @@ Our group is part of the Division of Epidemiology at the University of Utah, nes
   text="Contact us"
   icon="fas fa-arrow-right"
   flip=true
-%} {:.center}{% endcapture %}
+%} 
+{:.center {% endcapture %}
 
 {%
   include feature.html
