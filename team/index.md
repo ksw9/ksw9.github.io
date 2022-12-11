@@ -40,25 +40,6 @@ Join us!
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-We are thrilled to be starting off at the University of Utah and have many current opportunities for students interested in epidemiology, evolution, computation, and health justice. Please reach out to discuss your interests—we’re looking forward to meeting you!
-
-{% include section.html %}
-
-## Join
-
-#### Post doctoral research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
-
-{% include section.html %}
-
 ## Funding
 
 Our work is made possible by funding from several organizations.
