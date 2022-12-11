@@ -37,7 +37,7 @@ nav:
 
 {%
   include figure.html
-  image="images/action/brazil_team.jpgeg"
+  image="images/action/brazil_team.jpg"
   caption="TB research meeting, Campo Grande, Brazil"
   link="team"
   width="400px"

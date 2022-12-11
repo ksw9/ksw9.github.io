@@ -49,7 +49,7 @@ We work across disciplines and departments and have several research openings fo
 
 {%
   include feature.html
-  image="images/action/brazil_students.jpeg"
+  image="images/action/brazil_students.jpg"
   link="opportunities"
   title="Join us!"
   text=text
@@ -65,11 +65,11 @@ Our group is part of the Division of Epidemiology at the University of Utah, nes
   icon="fas fa-arrow-right"
   flip=true
 %} 
-{:.center {% endcapture %}
+{:.center} {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/action/pgy_team_meeting.jpg"
   link="Contact us"
   title="Our location"
   flip=true
