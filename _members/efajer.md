@@ -3,6 +3,8 @@ name: Ellie Fajer
 image: images/team/efajer.jpeg
 description: Alumni
 role: alumni
+aliases:
+    Elinor Fajer
 
 ---
 
