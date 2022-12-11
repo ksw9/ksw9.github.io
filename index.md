@@ -29,7 +29,7 @@ Pathogen evolution creates an extraordinary epidemiological record. We develop a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/action/transmission_tree.jpg"
   link="research"
   title="Our Research"
   text=text
