@@ -1,8 +1,8 @@
 ---
 name: Katharine S. Walter
 image: images/team/kwalter.jpeg
-description: PI
-role: PI
+description: pi
+role: pi
 links:
   email: katharine-walter@hsc.utah.edu
   github: ksw9
