@@ -35,6 +35,14 @@ nav:
 %}
 {:.center}
 
+{%
+  include figure.html
+  image="images/action/brazil_team.jpgeg"
+  caption="TB research meeting, Campo Grande, Brazil"
+  link="team"
+  width="400px"
+%}
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 ## Funding
