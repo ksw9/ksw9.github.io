@@ -6,7 +6,8 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i>Writing
-
+{% include section.html %}
+testing!
 {%
   include list.html
   data="sciwriting"
