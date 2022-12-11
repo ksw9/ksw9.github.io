@@ -1,3 +1,41 @@
 - title: How the Other Half Dies
   url: https://www.bostonreview.net/articles/how-the-other-half-dies/
   image: https://www.bostonreview.net/wp-content/uploads/2022/03/tuberculosis.png
+
+  - title: Ebola Outbreaks Are About Inequality
+  url: https://newrepublic.com/article/154708/ebola-outbreaks-inequality
+  image: https://images.newrepublic.com/3a4548d654961e3767a442f79aa5b2db2a6e4896.jpeg?auto=compress&ar=3%3A2&fit=crop&crop=faces&fm=jpg&ixlib=react-9.0.2&w=768&q=65&dpr=2
+  tags: 
+    - infectious disease
+  year: 2019
+
+- title: What We Get Wrong About Lyme Disease
+  url: https://nautil.us/what-we-get-wrong-about-lyme-disease-236815/?_sp=9d484ead-beaa-4ce9-a017-f934fb720f0d.1670719254101
+  image: https://assets.nautil.us/13304_22935fba49f7d80d5adf1cfa6b0344f4.png?crop=entropy&auto=compress&fit=crop&h=480&w=800  tags: 
+    - infectious disease
+  year: 2017
+
+- title: Central Park Mice Don’t Get Out Much
+  url: https://nautil.us/central-park-mice-dont-get-out-much-236719/?_sp=9d484ead-beaa-4ce9-a017-f934fb720f0d.1670719291519
+  image: https://assets.nautil.us/12882_71964ed9f684f669180eed60be305c42.png?crop=entropy&auto=compress&fit=crop&h=480&w=800    - infectious disease
+  year: 2017
+
+- title: How to Hear Like a Champion Birder
+  url: https://nautil.us/how-to-hear-like-a-champion-birder-236710/?_sp=9d484ead-beaa-4ce9-a017-f934fb720f0d.1670719390741  image: https://assets.nautil.us/12882_71964ed9f684f669180eed60be305c42.png?crop=entropy&auto=compress&fit=crop&h=480&w=800    - infectious disease
+  image: https://assets.nautil.us/12792_4f30eca4e58e0d51d3d97d302bfd2a53.png?crop=entropy&auto=compress&fit=crop&h=480&w=800
+  year: 2017
+
+ - title: How Aging Research Is Changing Our Lives: an interview
+  url: https://nautil.us/how-aging-research-is-changing-our-lives-236673/?_sp=9d484ead-beaa-4ce9-a017-f934fb720f0d.1670719471369  image: https://assets.nautil.us/12691_edf7f2f34f6b96fae76c68bc2268c128.png?crop=entropy&auto=compress&fit=crop&h=480&w=800
+  image: https://assets.nautil.us/12691_edf7f2f34f6b96fae76c68bc2268c128.png?crop=entropy&auto=compress&fit=crop&h=216&w=356
+  year: 2017
+
+- title: Will Viruses Save Us From Superbugs?
+  url: https://nautil.us/will-viruses-save-us-from-superbugs-236265/?_sp=9d484ead-beaa-4ce9-a017-f934fb720f0d.1670719501931  image: https://assets.nautil.us/12882_71964ed9f684f669180eed60be305c42.png?crop=entropy&auto=compress&fit=crop&h=480&w=800    - infectious disease
+  image: https://assets.nautil.us/11107_37e79373884f0f0b70b5cb91fb947148.png?crop=entropy&auto=compress&fit=crop&h=480&w=800
+  year: 2017
+
+- title: Climate change is speeding the spread of Lyme disease
+  url: https://www.statnews.com/2016/07/01/lyme-disease-climate-change/
+  image: https://www.statnews.com/wp-content/uploads/2016/06/DeerTick-645x645.jpg
+  year: 2016
