@@ -29,7 +29,7 @@ Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/inte
   link="https://www.google.com/maps/dir//295+Chipeta+Way,+Salt+Lake+City,+UT+84108/@40.7645315,-111.8279308,17z/data=!4m17!1m7!3m6!1s0x87525fc73e917fef:0x562ee99f856b7c51!2s295+Chipeta+Way,+Salt+Lake+City,+UT+84108!3b1!8m2!3d40.7645315!4d-111.8257421!4m8!1m0!1m5!1m1!1s0x87525fc73e917fef:0x562ee99f856b7c51!2m2!1d-111.8257421!2d40.7645315!3e2"
   style="button"
 %}
-{:.center}
+
 
 {% include section.html %}
 
