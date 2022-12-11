@@ -40,14 +40,13 @@ Join us!
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are thrilled to be starting off at the University of Utah and have many current opportunities for students interested in epidemiology, evolution, computation, and health justice. Please reach out to discuss your interests—we’re looking forward to meeting you!
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post doctoral research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
