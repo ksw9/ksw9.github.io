@@ -2,7 +2,7 @@
 name: Ellie Fajer
 image: images/team/efajer.jpg
 description: Undergraduate student
-role: undergraduate
+role: alumni
 
 ---
 
