@@ -5,7 +5,7 @@ nav:
   tooltip: Writing about health inequity & ecology
 ---
 
-#<i class="fa-sharp fa-solid fa-pen-nib"></i>Writing
+<i class="fa-sharp fa-solid fa-pen-nib"></i>Writing
 {% include section.html %}
 
 {%
