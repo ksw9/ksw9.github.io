@@ -1,8 +1,8 @@
 ---
-name: Gladys Estigarribia Sanabria
-image: images/team/gsanabria.jpeg
-description: Graduate student
-role: phd
+name: Ellie Fajer
+image: images/team/efajer.jpg
+description: Undergraduate student
+role: undergraduate
 
 ---
 
