@@ -33,7 +33,8 @@
     - tb
 - id: doi:10.1183/13993003.02302-2018
 - id: doi:10.1099/mgen.0.000418
-- id: doi:10.1183/13993003.02302-2018
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/6/8/mgen000418-f3.gif
+- #id: doi:10.1183/13993003.02302-2018
 - id: pmid:31048345
 - id: doi:10.1371/JOURNAL.PMED.1002764
 - id: doi:10.1371/journal.pmed.1002737
