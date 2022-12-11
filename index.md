@@ -16,7 +16,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-Pathogen evolution creates an extraordinary epidemiological record. We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on M. tuberculosis. Our goal is to directly inform public health in low-income settings. 
+Pathogen evolution creates an extraordinary epidemiological record. We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on **M. tuberculosis**. Our goal is to directly inform public health in low-income settings. 
 
 {%
   include link.html
@@ -56,7 +56,7 @@ We work across disciplines and departments and have several research openings fo
 %}
 
 {% capture text %}
-Our group is part of the Division of Epidemiology at the University of Utah, nestled into the foothills of the Wasatch Mountains. Our lab sits on unceded territory named for the Ute Tribe that is the ancestral homeland of the Shoshone, Paiute, Goshute, and Ute Tribes. We honor this history and the relationship these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
+Our group is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology) at the University of Utah, nestled into the foothills of the Wasatch Mountains. Our lab sits on unceded territory named for the Ute Tribe that is the ancestral homeland of the Shoshone, Paiute, Goshute, and Ute Tribes. We honor this history and the relationship these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
 
 {%
   include link.html
@@ -70,8 +70,8 @@ Our group is part of the Division of Epidemiology at the University of Utah, nes
 {%
   include feature.html
   image="images/action/pgy_team_meeting.jpg"
-  link="Contact us"
-  title="Our location"
+  link="contact"
+  title="Our Location"
   flip=true
   text=text
 %}
