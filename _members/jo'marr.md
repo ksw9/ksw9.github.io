@@ -1,7 +1,7 @@
 ---
 name: Jaimeson O’Marr
-image: images/team/jo'marr.jpg
-description: Master's student
+image: images/team/jo'marr.jpeg
+description: Alumni
 role: alumni
 
 ---

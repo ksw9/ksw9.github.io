@@ -1,7 +1,7 @@
 ---
 name: Yiran Liu
-image: images/team/yliu.jpg
-description: Graduate student
+image: images/team/yliu.jpeg
+description: Alumni
 role: alumni
 
 ---
