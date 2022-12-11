@@ -16,7 +16,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-Pathogen evolution creates an extraordinary epidemiological record. We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on **M. tuberculosis**. Our goal is to directly inform public health in low-income settings. 
+Pathogen evolution creates an extraordinary epidemiological record. We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on *M. tuberculosis*. Our goal is to directly inform public health in low-income settings. 
 
 {%
   include link.html

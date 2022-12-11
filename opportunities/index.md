@@ -24,18 +24,18 @@ We are thrilled to be starting off at the University of Utah and have many curre
 
 We look forward to welcoming undergraduates through several programs. 
 
-- Undergraduate Research Program (UROP): Funding for academic year research
-- Health Science LEAP Scholars: Funding for academic year research
-- Genomics Summer Research for Minorities: Undergrad funding for summer research
-- Wilkes Scholars: Undergrad funding for climate-related projects for semesters and summer research
+- [Undergraduate Research Program (UROP)](https://our.utah.edu/research-scholarship-opportunities/urop/): Funding for academic year research
+- Health Science [LEAP Scholars](https://leap.utah.edu/): Funding for academic year research
+- [Genomics Summer Research for Minorities](https://prod.pediatrics.medicine.utah.edu/pediatrics/research/education/gsrm/program-info): Undergrad funding for summer research
+- [Wilkes Undergrad Scholars](https://wilkescenter.utah.edu/funding-opportunities/wilkes-scholars/): Undergrad funding for climate-related projects for semesters and summer research
 
 ## Graduate students
 
-We are excited to work with students from the Biosciences PhD Program, which has a lab rotation program, and the Population Health PhD Program. We are also excited to work with students across the university, including the Department of Biomedical Informatics.
+We are excited to work with students from the [Biosciences PhD Program](https://bioscience.utah.edu/), which has a lab rotation program, and the [Population Health PhD Program](https://medicine.utah.edu/population-health-sciences/phd). We are also excited to work with students across the university, including the [Department of Biomedical Informatics](https://medicine.utah.edu/dbmi).
 
 ## Postdoctoral & medical fellows
 
-Wilkes Postdoctoral Fellowship (due March 15, 2023): we are excited to work with applicants for this new climate science fellowship.
+[Wilkes Postdoctoral Fellowship](https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/) (due March 15, 2023): we are excited to work with applicants for this new climate science fellowship.
 
 
 There are many additional sources of NSF, NIH, and foundation funding to support students and fellows. 
