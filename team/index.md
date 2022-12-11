@@ -6,9 +6,6 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
-Join us!
-
-
 
 {% include section.html %}
 

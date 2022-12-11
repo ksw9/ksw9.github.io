@@ -1,7 +1,7 @@
 ---
 title: Writing
 nav:
-  order: 3
+  order: 2
   tooltip: Writing about health inequity and environmental change. 
 ---
 

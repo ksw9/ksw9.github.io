@@ -10,4 +10,4 @@ links:
 
 Katharine completed her PhD at Yale University in Maria Diuk-Wasser's Laboratory and her postdoctoral research at Stanford University in the Jason Andrews Laboratory.
 
-She is looking for her snowboots for a walk to the local bookshop.
+Outside of work, she is often looking for her snowboots for a walk to the local bookshop.
