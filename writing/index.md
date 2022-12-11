@@ -12,6 +12,5 @@ testing!
   include list.html
   data="sciwriting"
   component="card"
-  filters="group: featured"
   style="rich"
 %}
