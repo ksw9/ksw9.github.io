@@ -1,11 +1,14 @@
 ---
-name: Katharine S. Walter
+name: Katharine S. Walter, PhD
 image: images/team/kwalter.jpeg
 description: PI
 role: pi
 links:
   email: katharine-walter@hsc.utah.edu
   github: ksw9
+aliases:
+  Katharine S. Walter
+  Katharine Walter
 ---
 
 Katharine completed her PhD at Yale University in Maria Diuk-Wasser's Laboratory and her postdoctoral research at Stanford University in the Jason Andrews Laboratory.

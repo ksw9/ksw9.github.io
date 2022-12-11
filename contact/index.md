@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology), at the school of [University of Utah](https://medicine.utah.edu/). We are nestled in the foothills of the Wasatch Mountains, across from the Red Butte Gardens. 
+Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology), at the school of [University of Utah](https://medicine.utah.edu/). We are affiliated with the university's [3I Iniatiative](https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases). We are nestled in the foothills of the Wasatch Mountains, across from the Red Butte Gardens. 
 
 
 {%
