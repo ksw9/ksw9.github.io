@@ -2,7 +2,7 @@
 title: Writing
 nav:
   order: 3
-  tooltip: Writing about health and environmental change. 
+  tooltip: Writing about health inequity and environmental change. 
 ---
 
 # <i class="fas fa-microscope"></i>Writing
