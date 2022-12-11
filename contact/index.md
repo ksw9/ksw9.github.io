@@ -30,9 +30,6 @@ Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/inte
   style="button"
 %}
 
-
-{% include section.html %}
-
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Division of Epidemiology 
