@@ -5,6 +5,8 @@ nav:
   tooltip: Writing about health and environmental change. 
 ---
 
+# <i class="fas fa-microscope"></i>Research
+
 {%
   include list.html
   data="sciwriting"
