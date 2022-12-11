@@ -4,7 +4,7 @@ image: images/team/efajer.jpeg
 description: Alumni
 role: alumni
 aliases:
-    Elinor Fajer
+    Elinor B. Fajer
 
 ---
 
