@@ -18,14 +18,17 @@
   - Jason R. Andrews
   - Julio Croda
   - Katharine S. Walter
-  publisher: Cold Spring Harbor Laboratory
+  publisher: medRxiv
   date: '2022-08-25'
   link: https://doi.org/grgkzq
   tags:
   - tb
   - genomics
   - incarceration
-  _cache: 88a20700395d67d2f994971d1c05b73f60df1022e0eb98b81d2bf9423f692f2d
+  - pre-print
+  - student 1st author
+  - student contributions
+  _cache: 99f1da10c19aa70e7eecc9f246e5d898e8edd58e891b5fd9a817e32cb857c89c
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
@@ -37,13 +40,14 @@
   - J. Croda
   - K. S. Walter
   - J. R. Andrews
-  publisher: medRxiv
+  publisher: The International Journal of Tuberculosis and Lung Disease
   date: '2022-03-01'
   link: https://doi.org/grgkzr
   tags:
   - tb
   - incarceration
-  _cache: 3a88c1c81bda0136fd478a2d89cc49b92dac2bb120ba47205c2dda0e40c98230
+  - student contributions
+  _cache: bf20815b0acad77e1672fe54ef2800a7b3afde2d02f7cf897fa4782a816242b8
 - id: doi:10.1016/j.lana.2022.100186
   title: 'The role of prisons in disseminating tuberculosis in Brazil: A genomic epidemiology
     study'
@@ -66,13 +70,15 @@
   - Barun Mathema
   - Julio Croda
   - Jason R. Andrews
-  publisher: medRxiv
+  publisher: The Lancet Regional Health - Americas
   date: '2022-05-01'
   link: https://doi.org/gqjbkt
   tags:
   - tb
   - incarceration
-  _cache: b05037f9d7d6a3d884fbabea7bd6e78b9ff37372f3a28d750be5ba6dbbaa4394
+  - student 1st author
+  - student contributions
+  _cache: da8c3246f946055bff611ab252f5d47870f83660d3c81011a1714020f859e878
 - id: doi:10.1093/ofid/ofab600
   title: Variation in Severe Acute Respiratory Syndrome Coronavirus 2 Bioaerosol Production
     in Exhaled Breath
@@ -88,7 +94,8 @@
   link: https://doi.org/gpc4n9
   tags:
   - sars-cov-2
-  _cache: 6879fb168a09f62589bdf4e47fedafe65f7e6a685e800e91bde00b7484c2cfc9
+  - genomics
+  _cache: 31bd5472d5615bed54c5beacbefb58805b1a1f8e52845c9fc3f145ae92059533
 - id: doi:10.1016/j.scitotenv.2022.156970
   title: Detection of M. tuberculosis in the environment as a tool for identifying
     high-risk locations for tuberculosis transmission
@@ -111,8 +118,9 @@
   tags:
   - tb
   - environmental sampling
+  - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
-  _cache: b8ec3182e255739f165c34037306a24b8d96160246209e5cc38ed8bd45dd6550
+  _cache: cd0de6ed3cd410a3bd4277dea0835dd940e32de0e12a9bbcaa582946a5aad309
 - id: doi:10.1101/2022.05.26.22275279
   title: Shared within-host SARS-CoV-2 variation in households
   authors:
