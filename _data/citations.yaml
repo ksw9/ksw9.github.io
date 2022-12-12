@@ -231,11 +231,11 @@
   publisher: The Lancet Public Health
   date: '2021-05-01'
   link: https://doi.org/grgkzw
-  image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
+  image: images/paper_images/lancet_map.jpg
   tags:
   - tb
   - incarceration
-  _cache: 289d66bc587a5ccca104a6a4f6a5db09235cd7eac1b676bf46bfda583d0d7b8d
+  _cache: 917730e4c46a738be6b846e712a54e034c71b78b80ce25530c6adee984c4028f
 - id: doi:10.3201/eid2703.203839
   title: "Local and Travel-Associated Transmission of Tuberculosis at Central Western\
     \ Border of Brazil, 2014\u20132017"
