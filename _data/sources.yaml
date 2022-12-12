@@ -38,14 +38,15 @@
   tags:
   - sars-cov-2
   - genomics
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9710627/bin/ciac312f2.jpg
+  image: images/paper_images/favi.jpeg
 - id: doi:10.1371/journal.pmed.1003789
   tags:
   - tb
   - incarceration
   - student 1st author
   - student contributions
-  image: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003789#sec019
+  image: images/paper_images/mortality.jpg
+  
 - id: doi:10.1016/S2468-2667(21)00025-6
   image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
   tags:
