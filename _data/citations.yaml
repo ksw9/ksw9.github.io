@@ -461,7 +461,11 @@
   publisher: BMC Genomics
   date: '2016-11-07'
   link: https://doi.org/grgk2p
-  _cache: 08ec4ff99b3f1d037365d6f2a73f4613c4bce2bf27b490093c6b63469e54c5db
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-016-3225-x/MediaObjects/12864_2016_3225_Fig1_HTML.gif?as=webp
+  tags:
+  - vectors
+  - genomics
+  _cache: 46c5fccb02fd6785de5778c190c587afe16c7a1096ba241c3dd96cf4c0c2184f
 - id: doi:10.1371/journal.ppat.1005759
   title: 'Vectors as Epidemiological Sentinels: Patterns of Within-Tick Borrelia burgdorferi
     Diversity'
@@ -474,7 +478,13 @@
   publisher: PLOS Pathogens
   date: '2016-07-14'
   link: https://doi.org/f93mgt
-  _cache: 5b05434e5fa373a70227bce393ce4e431d89d34cd2a3d2da661bc2072503b670
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=10.1371/journal.ppat.1005759.g003
+  tags:
+  - vectors
+  - genomics
+  - Lyme disease
+  - within-host diversity
+  _cache: 0d135a16680eca3377485c5b090477f48fbfd181e41caf9e5a3850ca6ea17c23
 - id: doi:10.1098/rspb.2016.0834
   title: 'Invasion of two tick-borne diseases across New England: harnessing human
     surveillance data to capture underlying ecological invasion processes'
@@ -489,7 +499,12 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2016-06-15'
   link: https://doi.org/gmwz9p
-  _cache: 4ba887e15a0af36964ca84c6362f919df028a3b6979ad17fcf4ead3a7bf2535b
+  tags:
+  - vectors
+  - Lyme disease
+  - climate change
+  - dynamic models
+  _cache: df549635cdf7b392a383b08a034c3ba2c5fcc8df771a471efe3e81b77714b9cb
 - id: doi:10.1186/s12864-015-1634-x
   title: 'Whole genome capture of vector-borne pathogens from mixed DNA samples: a
     case study of Borrelia burgdorferi'
@@ -503,7 +518,12 @@
   publisher: BMC Genomics
   date: '2015-06-06'
   link: https://doi.org/f7qb6w
-  _cache: 553641b0c7ba1a015adfc77c3deacbba900ae802623869370b2bfb1c6fbafa38
+  tags:
+  - vectors
+  - Lyme disease
+  - genomics
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-1634-x/MediaObjects/12864_2015_1634_Fig1_HTML.gif?as=webp
+  _cache: 15a3f4fc9d33d42f09ff7ff0801d29ada536f97b9208a109209a03d01ab2e955
 - id: doi:10.1603/ME13097
   title: 'Microhabitat Partitioning of<i>Aedes simpsoni</i>(Diptera: Culicidae)'
   authors:
@@ -513,9 +533,10 @@
   publisher: Journal of Medical Entomology
   date: '2014-05-01'
   link: https://doi.org/f522cn
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/51/3/10.1603_ME13097/3/m_jmedent51-0596-fig1.jpeg?Expires=1672915485&Signature=bOq0B703kdLlIdYP0R3D~DqdpNl854Wpfh5zRi6DKm5rlL5X1rBLF1CsyezgiYdkm3ZfvdJ7gkyamrWFjrodaAh-NJqGoe-pst5Z7ksrUDSrs9TS7fD6QuI9Awzi4aGLjE4JGBZ~oZbjDo3zIynFuu9GUNvo-i8JeDZFWDDBk6cmpY~JgEj3z9yTZTwrhouhSen22Dt79GCNJfL~D-G8YW-BOeUlmdad-zTIphedPPKWIkeUZM5LmE6oNjg7ErEoMoBSZUtuzbBYxtP8SoPlQChBGbmg7dL7autQ8xgLg5zgRVaINE8hQz6fTNNOvbbOWSYWzJOLaGTNRRz-05Qh1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - vectors
-  _cache: 707774e84ca6cc6ac06d7d5de5e04a26973f8e370483a2c9acc519a5d8559733
+  _cache: e58471a5cfc78858c491095022acaa26be3fa3ae86fccd78e4089c2d2725e07c
 - id: doi:10.1128/JVI.00256-09
   title: "HLA Class I Subtype-Dependent Expansion of KIR3DS1\n            <sup>+</sup>\n\
     \            and KIR3DL1\n            <sup>+</sup>\n            NK Cells during\
@@ -535,4 +556,5 @@
   link: https://doi.org/fmd7hs
   tags:
   - HIV
-  _cache: 39c0e617571994c8f2fb6e544c816e80b5d821acc93cc42d3ca0c2809376f864
+  image: https://journals.asm.org/cms/10.1128/JVI.00256-09/asset/67caf011-3449-4f36-ba4c-e8276ccc33d4/assets/graphic/zjv0130920270001.jpeg
+  _cache: dd23d9c10b76070244bb7aa1e712d87dd02256c93d224974e3c943f064205a3f
