@@ -182,8 +182,8 @@
   tags:
   - sars-cov-2
   - genomics
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9710627/bin/ciac312f2.jpg
-  _cache: 8be6c1bedb03ded1e9b04221ba075186b98f05a288faafaa47c0569a339efde7
+  image: images/paper_images/favi.jpeg
+  _cache: 9cd30a83d47b0bed9bf0f9ced362e454b0a586502730abb6a631fd595af98ec1
 - id: doi:10.1371/journal.pmed.1003789
   title: 'All-cause and cause-specific mortality during and following incarceration
     in Brazil: A retrospective cohort study'
@@ -207,8 +207,8 @@
   - incarceration
   - student 1st author
   - student contributions
-  image: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003789#sec019
-  _cache: d2101844408005f27159d1dddaba2e1ae2f2340f94dcb781681f9b295983d46f
+  image: images/paper_images/mortality.jpg
+  _cache: 9221fc068580b94a740a94726f7c7cdb8caad69d2a49594e44c9371a8e6ac7dc
 - id: doi:10.1016/S2468-2667(21)00025-6
   title: 'Incidence and prevalence of tuberculosis in incarcerated populations: a
     systematic review and meta-analysis'
