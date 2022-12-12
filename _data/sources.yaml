@@ -62,8 +62,8 @@
   - incarceration
   - genomics
   - student contributions
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7920644/bin/20-3839-F3.jpg
-- id: doi:10.1016/S0140-6736(20)32578-2
+  image: images/paper_images/tb_cluster_eid.jpeg
+  - id: doi:10.1016/S0140-6736(20)32578-2
   tags:
   - tb
   - incarceration
@@ -91,7 +91,7 @@
 - id: doi:10.1183/13993003.02302-2018
   tags: 
   - tb
-  image: https://erj.ersjournals.com/content/erj/53/6/1802302/F1.large.jpg?width=800&height=600&carousel=1
+  image: images/paper_images/tb_environment.jpg
 - id: doi:10.1371/JOURNAL.PMED.1002764
   tags: 
   - tb
