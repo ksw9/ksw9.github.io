@@ -231,11 +231,11 @@
   publisher: The Lancet Public Health
   date: '2021-05-01'
   link: https://doi.org/grgkzw
-  image: images/paper_images/lancet_map.jpg
+  image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
   tags:
   - tb
   - incarceration
-  _cache: 917730e4c46a738be6b846e712a54e034c71b78b80ce25530c6adee984c4028f
+  _cache: 289d66bc587a5ccca104a6a4f6a5db09235cd7eac1b676bf46bfda583d0d7b8d
 - id: doi:10.3201/eid2703.203839
   title: "Local and Travel-Associated Transmission of Tuberculosis at Central Western\
     \ Border of Brazil, 2014\u20132017"
@@ -257,8 +257,8 @@
   - incarceration
   - genomics
   - student contributions
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7920644/bin/20-3839-F3.jpg
-  _cache: 8a982b434919e7a19b071257c278120a31e6543c4d58531355f4c0ebca61fe36
+  image: images/paper_images/tb_cluster_eid.jpeg
+  _cache: 1b0fca8c313d44a3d0b859c8fa2d8af1e11cfb33442f3f0aa6a76896228e51ec
 - id: doi:10.1016/S0140-6736(20)32578-2
   title: The escalating tuberculosis crisis in central and South American prisons
   authors:
@@ -282,8 +282,8 @@
   - tb
   - incarceration
   - student contributions
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393884/bin/nihms-1825684-f0002.jpg
-  _cache: 2f524521de493978f783fa324ef3d5835cdacf2183a25e9f6e6c823479fc0315
+  image: images/paper_images/lancet_map.jpg
+  _cache: e054e4d89234df0aa8ed0629a892fe5f60ad33de68125a925f385047619d0750
 - id: doi:10.1101/2021.11.30.21266839
   title: "Use of rapid molecular tuberculosis diagnostics across Brazil\u2019s incarcerated\
     \ population"
@@ -369,12 +369,11 @@
   link: https://doi.org/grgk2m
   tags:
   - tb
-  image: https://erj.ersjournals.com/content/erj/53/6/1802302/F1.large.jpg?width=800&height=600&carousel=1
-  _cache: b0cc2590ef1545633d2d24599813e676fe335b876c57e2f4b2ac0ccdb8330404
-- id: doi:10.1371/JOURNAL.PMED.1002764
-  title: 'Correction: Evaluating strategies for control of tuberculosis in prisons
-    and prevention of spillover into communities: An observational and modeling study
-    from Brazil'
+  image: images/paper_images/tb_environment.jpg
+  _cache: d7d86b562bb92e3034ec2ad861a5c0bc3ec65f872d8efad41a65852f4acb4705
+- id: https://doi.org/10.1371/journal.pmed.1002737
+  title: 'Evaluating strategies for control of tuberculosis in prisons and prevention
+    of spillover into communities: An observational and modeling study from Brazil'
   authors:
   - Tarub S. Mabud
   - Maria de Lourdes Delgado Alves
@@ -388,13 +387,13 @@
   - Julio Croda
   - Jason R. Andrews
   publisher: PLOS Medicine
-  date: '2019-03-01'
-  link: https://doi.org/grgk2n
+  date: '2019-01-24'
+  link: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002737
   tags:
   - tb
   - incarceration
-  image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002737.g002
-  _cache: 3a0a6f87cd427330d5096b43e005104a00a762007d380591a7b55b1acc1637fb
+  image: images/paper_images/tb_incidence_mabud.jpg
+  _cache: bafa6263d88cd4f96b84f2941e97f8d6b1027c877781a3488446af015b229c0a
 - id: doi:10.1371/journal.ppat.1007470
   title: Colonization of the tsetse fly midgut with commensal Kosakonia cowanii Zambiae
     inhibits trypanosome infection establishment
