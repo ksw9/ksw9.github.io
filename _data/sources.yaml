@@ -38,11 +38,13 @@
   - genomics
   - student contributions
   image: images/paper_images/scv-2.jpg
+
 - id: doi:10.1093/cid/ciac312
   tags:
   - sars-cov-2
   - genomics
   image: images/paper_images/favi.jpeg
+
 - id: doi:10.1371/journal.pmed.1003789
   tags:
   - tb
@@ -52,10 +54,11 @@
   image: images/paper_images/mortality.jpg
 
 - id: doi:10.1016/S2468-2667(21)00025-6
-  image: images/paper_images/lancet_map.jpg  
+  image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
   tags:
   - tb
   - incarceration
+
 - id: doi:10.3201/eid2703.203839
   tags:
   - tb
@@ -63,12 +66,14 @@
   - genomics
   - student contributions
   image: images/paper_images/tb_cluster_eid.jpeg
-  - id: doi:10.1016/S0140-6736(20)32578-2
+
+- id: doi:10.1016/S0140-6736(20)32578-2
   tags:
   - tb
   - incarceration
   - student contributions
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393884/bin/nihms-1825684-f0002.jpg
+  image: images/paper_images/lancet_map.jpg  
+
 - id: doi:10.1101/2021.11.30.21266839
   image: images/paper_images/fajer_map.jpg
   tags:
@@ -92,11 +97,11 @@
   tags: 
   - tb
   image: images/paper_images/tb_environment.jpg
-- id: doi:10.1371/JOURNAL.PMED.1002764
+- id: https://doi.org/10.1371/journal.pmed.1002737
   tags: 
   - tb
   - incarceration
-  image: https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002737.g002
+  image: images/paper_images/tb_incidence_mabud.jpg
 - id: doi:10.1371/journal.ppat.1007470
   tags: 
   - vectors
