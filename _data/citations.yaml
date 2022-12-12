@@ -48,8 +48,8 @@
   - incarceration
   - student 1st author
   - student contributions
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2667193X22000035-gr2.jpg
-  _cache: 7b3730734b9e6b94f052181805d7cd776b8941681bebfda772a06ba7c632c7a0
+  image: images/paper_images/State_DOT_access.jpg
+  _cache: 504da41e5e2ebfd868d6e4686f8a6f0e7bfc051b1b9d2857882ab6703838ab81
 - id: doi:10.1016/j.lana.2022.100186
   title: 'The role of prisons in disseminating tuberculosis in Brazil: A genomic epidemiology
     study'
@@ -144,7 +144,12 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-05-27'
   link: https://doi.org/grgkzs
-  _cache: f922090dec1204dc3f614df325ef22e7cc79f230c648a9227dd7a87f3e78c0e4
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: images/paper_images/scf-2.jpg
+  _cache: 4d0ec236e8d1268f7f1325be1e1baa1a5ead62721f0b9f7f5313b43f2dbc9997
 - id: doi:10.1093/cid/ciac312
   title: 'Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated
     Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase
