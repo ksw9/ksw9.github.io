@@ -115,19 +115,21 @@
 - id: doi:10.1098/rspb.2017.0901
   tags: 
   - climate change
+  image: https://royalsocietypublishing.org/cms/asset/1c8fed57-f0d9-4371-bc32-b0a7e0573b58/rspb20170901f01.jpg
 - id: doi:10.1186/s12864-016-3225-x
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-016-3225-x/MediaObjects/12864_2016_3225_Fig1_HTML.gif?as=webp
   tags: 
   - vectors
   - genomics
 - id: doi:10.1371/journal.ppat.1005759
-  image: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=10.1371/journal.ppat.1005759.g003
+  image: images/paper_images/within-tick.jpg
   tags: 
   - vectors
   - genomics
   - Lyme disease
   - within-host diversity
 - id: doi:10.1098/rspb.2016.0834
+  image: images/paper_images/lyme_map.jpg
   tags: 
   - vectors
   - Lyme disease
