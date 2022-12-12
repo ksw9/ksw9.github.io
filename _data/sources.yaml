@@ -25,7 +25,6 @@
     - genomics
     - student contributions
   image: images/paper_images/ofid_mask.png
-  
 - id: doi:10.1016/j.scitotenv.2022.156970
   tags:
     - tb
