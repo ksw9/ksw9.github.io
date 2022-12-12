@@ -52,7 +52,7 @@
   image: images/paper_images/mortality.jpg
 
 - id: doi:10.1016/S2468-2667(21)00025-6
-  image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
+  image: images/paper_images/lancet_map.jpg  
   tags:
   - tb
   - incarceration
