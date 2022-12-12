@@ -13,7 +13,7 @@
   - incarceration
   - student 1st author
   - student contributions
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2667193X22000035-gr2.jpg
+  image: images/paper_images/State_DOT_access.jpg
 - id: doi:10.1016/j.lana.2022.100186
   tags:
   - tb
@@ -33,7 +33,11 @@
   - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
 - id: doi:10.1101/2022.05.26.22275279
-
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: images/paper_images/scf-2.jpg
 - id: doi:10.1093/cid/ciac312
   tags:
   - sars-cov-2
@@ -46,7 +50,7 @@
   - student 1st author
   - student contributions
   image: images/paper_images/mortality.jpg
-  
+
 - id: doi:10.1016/S2468-2667(21)00025-6
   image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
   tags:
