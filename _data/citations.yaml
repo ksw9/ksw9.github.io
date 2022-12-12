@@ -148,8 +148,8 @@
   - sars-cov-2
   - genomics
   - student contributions
-  image: images/paper_images/scf-2.jpg
-  _cache: 4d0ec236e8d1268f7f1325be1e1baa1a5ead62721f0b9f7f5313b43f2dbc9997
+  image: images/paper_images/scv-2.jpg
+  _cache: 7e8abf20399f92054342396a4849f8dd3b09e8e79e545196e262f6079970b4d6
 - id: doi:10.1093/cid/ciac312
   title: 'Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated
     Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase
