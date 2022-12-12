@@ -106,13 +106,34 @@
   tags: 
   - climate change
 - id: doi:10.1186/s12864-016-3225-x
-- id: doi:10.1371/journal.ppat.1005759
-- id: doi:10.1098/rspb.2016.0834
-- id: doi:10.1186/s12864-015-1634-x
-
-- id: doi:10.1603/ME13097
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-016-3225-x/MediaObjects/12864_2016_3225_Fig1_HTML.gif?as=webp
   tags: 
-    - vectors
+  - vectors
+  - genomics
+- id: doi:10.1371/journal.ppat.1005759
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=10.1371/journal.ppat.1005759.g003
+  tags: 
+  - vectors
+  - genomics
+  - Lyme disease
+  - within-host diversity
+- id: doi:10.1098/rspb.2016.0834
+  tags: 
+  - vectors
+  - Lyme disease
+  - climate change 
+  - dynamic models
+- id: doi:10.1186/s12864-015-1634-x
+  tags: 
+  - vectors
+  - Lyme disease
+  - genomics
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-1634-x/MediaObjects/12864_2015_1634_Fig1_HTML.gif?as=webp
+- id: doi:10.1603/ME13097
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/51/3/10.1603_ME13097/3/m_jmedent51-0596-fig1.jpeg?Expires=1672915485&Signature=bOq0B703kdLlIdYP0R3D~DqdpNl854Wpfh5zRi6DKm5rlL5X1rBLF1CsyezgiYdkm3ZfvdJ7gkyamrWFjrodaAh-NJqGoe-pst5Z7ksrUDSrs9TS7fD6QuI9Awzi4aGLjE4JGBZ~oZbjDo3zIynFuu9GUNvo-i8JeDZFWDDBk6cmpY~JgEj3z9yTZTwrhouhSen22Dt79GCNJfL~D-G8YW-BOeUlmdad-zTIphedPPKWIkeUZM5LmE6oNjg7ErEoMoBSZUtuzbBYxtP8SoPlQChBGbmg7dL7autQ8xgLg5zgRVaINE8hQz6fTNNOvbbOWSYWzJOLaGTNRRz-05Qh1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+  - vectors
 - id: doi:10.1128/JVI.00256-09
   tags: 
-    - HIV
+  - HIV
+  image: https://journals.asm.org/cms/10.1128/JVI.00256-09/asset/67caf011-3449-4f36-ba4c-e8276ccc33d4/assets/graphic/zjv0130920270001.jpeg
