@@ -54,17 +54,13 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
+  image1="images/3i.jpg"
   link1="https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases"
   tooltip1="University of Utah 3i Initiative"
 
   image2="https://www.niaid.nih.gov/themes/custom/niaid-drupal-theme/patternlab/src/images/global/niaid/logo-niaid.svg"
   link2="https://www.niaid.nih.gov/"
   tooltip2="NIH/NIAID"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
 
   image3="https://www.thrasherresearch.org/content/thrasher/bc/thrasher/images/thrasher-logo.png"
   link3="https://www.thrasherresearch.org/purpose-of-fund?lang=eng"
