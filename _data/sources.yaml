@@ -1,91 +1,92 @@
 - id: doi:10.1101/2022.08.23.22279039
   tags:
-    - tb
-    - genomics
-    - incarceration
-    - student 1st author
-    - student contributions
+  - tb
+  - genomics
+  - incarceration
+  - student 1st author
+  - student contributions
+  publisher: medRxiv
   image: images/paper_images/pgy_phylogeny.jpg
 - id: doi:10.5588/ijtld.21.0449
   tags:
-    - tb
-    - incarceration
-    - student 1st author
-    - student contributions
+  - tb
+  - incarceration
+  - student 1st author
+  - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2667193X22000035-gr2.jpg
 - id: doi:10.1016/j.lana.2022.100186
   tags:
-    - tb
-    - incarceration
-    - student contributions
+  - tb
+  - incarceration
+  - student contributions
   image: images/action/big_phylogeny.jpg
 - id: doi:10.1093/ofid/ofab600
   tags:
-    - sars-cov-2
-    - genomics
-    - student contributions
+  - sars-cov-2
+  - genomics
+  - student contributions
   image: images/paper_images/ofid_mask.png
 - id: doi:10.1016/j.scitotenv.2022.156970
   tags:
-    - tb
-    - environmental sampling
-    - student contributions
+  - tb
+  - environmental sampling
+  - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
 - id: doi:10.1101/2022.05.26.22275279
 
 - id: doi:10.1093/cid/ciac312
   tags:
-    - sars-cov-2
-    - genomics
+  - sars-cov-2
+  - genomics
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9710627/bin/ciac312f2.jpg
 - id: doi:10.1371/journal.pmed.1003789
   tags:
-    - tb
-    - incarceration
-    - student 1st author
-    - student contributions
+  - tb
+  - incarceration
+  - student 1st author
+  - student contributions
   image: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003789#sec019
 - id: doi:10.1016/S2468-2667(21)00025-6
   image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
   tags:
-    - tb
-    - incarceration
+  - tb
+  - incarceration
 - id: doi:10.3201/eid2703.203839
   tags:
-    - tb
-    - incarceration
-    - genomics
-    - student contributions
+  - tb
+  - incarceration
+  - genomics
+  - student contributions
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7920644/bin/20-3839-F3.jpg
 - id: doi:10.1016/S0140-6736(20)32578-2
   tags:
-    - tb
-    - incarceration
-    - student contributions
+  - tb
+  - incarceration
+  - student contributions
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393884/bin/nihms-1825684-f0002.jpg
 - id: doi:10.1101/2021.11.30.21266839
   image: images/paper_images/fajer_map.jpg
   tags:
-    - tb
-    - incarceration
-    - student contributions
-    - student 1st author
+  - tb
+  - incarceration
+  - student contributions
+  - student 1st author
 - id: doi:10.1007/s11538-021-00896-2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-021-00896-2/MediaObjects/11538_2021_896_Fig6_HTML.png?as=webp
   tags: 
-    - within-host diversity
-    - Lyme disease
-    - dynamic models
+  - within-host diversity
+  - Lyme disease
+  - dynamic models
 - id: doi:10.1099/mgen.0.000418
   tags: 
-    - tb
-    - genomics
-    - student contributions
+  - tb
+  - genomics
+  - student contributions
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/6/8/mgen000418-f3.gif
 - id: doi:10.1183/13993003.02302-2018
-    tags: 
-    - tb
-    image: https://erj.ersjournals.com/content/erj/53/6/1802302/F1.large.jpg?width=800&height=600&carousel=1
+  tags: 
+  - tb
+  image: https://erj.ersjournals.com/content/erj/53/6/1802302/F1.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1371/JOURNAL.PMED.1002764
   tags: 
   - tb
@@ -96,7 +97,14 @@
   - vectors
   image: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=10.1371/journal.ppat.1007470.g005
 - id: doi:10.1038/s41559-017-0282-8
+  tags:
+  - Lyme disease
+  - vectors
+  - genomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6431794/bin/nihms-894064-f0003.jpg
 - id: doi:10.1098/rspb.2017.0901
+  tags: 
+  - climate change
 - id: doi:10.1186/s12864-016-3225-x
 - id: doi:10.1371/journal.ppat.1005759
 - id: doi:10.1098/rspb.2016.0834
