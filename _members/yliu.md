@@ -4,7 +4,6 @@ image: images/team/yliu.jpeg
 description: Alumni
 role: alumni
 aliases:
-  Yiran Liu
   Yiran E. Liu
 ---
 
