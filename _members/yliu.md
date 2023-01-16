@@ -4,8 +4,7 @@ image: images/team/yliu.jpeg
 description: Alumni
 role: alumni
 aliases:
- - Katharine S. Walter
-Yiran E. Liu
+ - Yiran E. Liu
 ---
 
 Yiran conducted a graduate research rotation in the lab. Her work demonstrated that mortality rates are elevated during incarceration in Central West Brazil, particularly due to violence, suicide, and infectious diseases. 
