@@ -9,7 +9,7 @@ nav:
 
 Our lab is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology), at the school of [University of Utah](https://medicine.utah.edu/). We are affiliated with the university's [3i Iniatiative](https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases). We are nestled in the foothills of the Wasatch Mountains, across from the Red Butte Gardens. 
 
-Our lab sits on unceded territory named for the Ute Tribe that is the ancestral homeland of the Shoshone, Paiute, Goshute, and Ute Tribes. We honor this history and the relationship these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
+Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the relationships these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
 
 
 {%
