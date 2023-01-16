@@ -1,3 +1,4 @@
+---
 name: Sindiso Nyathi
 image: images/team/snyathi.jpeg
 description: Alumni
