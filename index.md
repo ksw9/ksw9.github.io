@@ -54,13 +54,3 @@ Our group is part of the [Division of Epidemiology](https://medicine.utah.edu/in
   title="Join us!"
   text=text
 %}
-
-{%
-  include feature.html
-  image="images/action/pgy_team_meeting.jpg"
-  link="contact"
-  title="Our Location"
-  flip=true
-  text=text
-%}
-
