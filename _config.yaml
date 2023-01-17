@@ -9,7 +9,7 @@ logo-text: true
 header: none
 header-dark: false
 footer: none
-baseurl: /ksw9
+baseurl: /
 
 # site social media and other links
 links:
