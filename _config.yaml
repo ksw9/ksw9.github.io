@@ -2,10 +2,12 @@
 
 # site properties and page defaults
 title: Evo-Epi Laboratory
-description: Evolution for public health action.
+subtitle: at the University of Utah
+description: epidemiology · evolution · environmental change
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+logo-text: true
+header: none
+footer: none
 baseurl: /ksw9
 
 # site social media and other links

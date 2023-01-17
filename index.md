@@ -36,7 +36,7 @@ Pathogen evolution creates an extraordinary epidemiological record. We develop a
 %}
 
 {% capture text %}
-We work across disciplines and departments and have several research openings for students and fellows at the intersection of epidemiology and environmental change. 
+Our group is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology) at the University of Utah, nestled into the foothills of the Wasatch Mountains. We work across disciplines and have several research openings for students and fellows at the intersection of epidemiology and environmental change. 
 
 {%
   include link.html
@@ -54,18 +54,6 @@ We work across disciplines and departments and have several research openings fo
   title="Join us!"
   text=text
 %}
-
-{% capture text %}
-Our group is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology) at the University of Utah, nestled into the foothills of the Wasatch Mountains. Our lab sits on unceded territory named for the Ute Tribe that is the ancestral homeland of the Shoshone, Paiute, Goshute, and Ute Tribes. We honor this history and the relationship these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
-
-{%
-  include link.html
-  link="contact"
-  text="Contact us"
-  icon="fas fa-arrow-right"
-  flip=true
-%} 
-{:.center} {% endcapture %}
 
 {%
   include feature.html
