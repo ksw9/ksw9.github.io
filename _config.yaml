@@ -7,6 +7,7 @@ description: epidemiology · evolution · environmental change
 logo: images/logo.jpg
 logo-text: true
 header: none
+header-dark: false
 footer: none
 baseurl: /ksw9
 

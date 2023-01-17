@@ -13,6 +13,6 @@ aliases:
   - Katharine S Walter
 ---
 
-Katharine is interested in how environmental changes--including climate change, habitat transformation, and mass incarceration--shape our pathogen exposures and determine who gets sick. She is committed to mentoring the next generation of scientists and public health advocates. She completed her PhD at Yale University in Maria Diuk-Wasser's Laboratory and her postdoctoral research at Stanford University in the Jason Andrews Laboratory.
+Katharine is interested in how environmental changes--including climate change, habitat transformation, and mass incarceration--shape our pathogen exposures and determine who gets sick. She is committed to mentoring the next generation of scientists and public health advocates. 
 
 Outside of work, she is often looking for her snowboots for a walk to the local bookshop.
