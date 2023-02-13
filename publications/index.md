@@ -1,3 +1,4 @@
+---
 title: Publications
 nav:
   order: 2

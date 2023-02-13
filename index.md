@@ -37,9 +37,6 @@ Pathogen evolution creates an extraordinary epidemiological record. We develop a
   text=text
 %}
 
-{% capture text %}
-Our group is part of the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology) at the University of Utah, nestled into the foothills of the Wasatch Mountains. We work across disciplines and have several research openings for students and fellows at the intersection of epidemiology and environmental change. 
-
 {%
   include link.html
   link="opportunities"
