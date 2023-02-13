@@ -30,18 +30,18 @@
   - student contributions
   image: images/paper_images/pgy_phylogeny.jpg
   _cache: 281285cf08129f61ffb17f22749018ba1b883d5750a85b0177bb24368bd00adc
-- id: https://doi.org/10.1093/ofid/ofad001
+- id: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
   title: ''
   authors: []
   publisher: ''
   date: ''
-  link: https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=1b7a7a4c-0f0a-48d9-a253-927c35e60bb8redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjofidzjarticlezjdoizj10zw1093zjofidzjofad001zj6974689
+  link: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
   tags:
   - sars-cov-2
   - genomics
   - student contributions
   image: images/paper_images/scv-2.jpg
-  _cache: 4afb76ff5dd834322480b73008fcd6e2ce60b0447138244406346fedb7bbc168
+  _cache: c6e847b9f9e4cc22881d0bb131184575f6c524628fe9507c54dd8b70dbdc7d07
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
