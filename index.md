@@ -16,12 +16,11 @@ title: Home
 Pathogen evolution creates an extraordinary epidemiological record and staggering public health challenges. Our group develops and applies evolutionary approaches to answer open questions about pathogen transmission and epidemiological dynamics. We focus on tuberculosis and pathogens linked to the rapidly changing climate in the American West with a goal of directly informing public health in low-income settings.  
 
 [Our research](research){:.center} 
+{:.center} 
 
-{%
-  include feature.html
+{% include feature.html
   image="images/action/transmission_tree.jpg"
   link="research"
-  title="Our Research"
   text=text
 %}
 
@@ -29,6 +28,5 @@ Pathogen evolution creates an extraordinary epidemiological record and staggerin
   include feature.html
   image="images/action/brazil_students.jpg"
   link="opportunities"
-  title="Join us!"
   text=text
 %}
