@@ -1,12 +1,19 @@
-- id: doi:10.1101/2022.08.23.22279039
+- id: https://doi.org/10.1038/s41467-023-35813-9
   tags:
   - tb
   - genomics
   - incarceration
   - student 1st author
   - student contributions
-  publisher: medRxiv
   image: images/paper_images/pgy_phylogeny.jpg
+
+- id: https://doi.org/10.1093/ofid/ofad001
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: images/paper_images/scv-2.jpg
+
 - id: doi:10.5588/ijtld.21.0449
   tags:
   - tb
@@ -14,30 +21,27 @@
   - student 1st author
   - student contributions
   image: images/paper_images/State_DOT_access.jpg
+
 - id: doi:10.1016/j.lana.2022.100186
   tags:
   - tb
   - incarceration
   - student contributions
   image: images/action/big_phylogeny.jpg
+
 - id: doi:10.1093/ofid/ofab600
   tags:
   - sars-cov-2
   - genomics
   - student contributions
   image: images/paper_images/ofid_mask.png
+
 - id: doi:10.1016/j.scitotenv.2022.156970
   tags:
   - tb
   - environmental sampling
   - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
-- id: doi:10.1101/2022.05.26.22275279
-  tags:
-  - sars-cov-2
-  - genomics
-  - student contributions
-  image: images/paper_images/scv-2.jpg
 
 - id: doi:10.1093/cid/ciac312
   tags:
