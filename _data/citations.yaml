@@ -1,16 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1101/2022.08.23.22279039
-  title: Phylogeography and transmission of <i>M. tuberculosis</i> spanning prisons
+- id: https://doi.org/10.1038/s41467-023-35813-9
+  title: Phylogeography and transmission of Mycobacterium tuberculosis spanning prisons
     and surrounding communities in Paraguay
   authors:
   - Gladys Estigarribia Sanabria
   - Guillermo Sequera
   - Sarita Aguirre
   - "Julieta M\xE9ndez"
-  - "Paulo C\xE9sar Pereira dos Santos"
+  - "Paulo C\xE9sar Pereira Santos"
   - Natalie Weiler Gustafson
+  - Margarita Godoy
   - "Anal\xEDa Ortiz"
   - Cynthia Cespedes
   - "Gloria Mart\xEDnez"
@@ -18,9 +19,9 @@
   - Jason R. Andrews
   - Julio Croda
   - Katharine S. Walter
-  publisher: medRxiv
-  date: '2022-08-25'
-  link: https://doi.org/grgkzq
+  publisher: Nature Communications
+  date: '2023-01-19'
+  link: https://www.nature.com/articles/s41467-023-35813-9
   tags:
   - tb
   - genomics
@@ -28,7 +29,19 @@
   - student 1st author
   - student contributions
   image: images/paper_images/pgy_phylogeny.jpg
-  _cache: 02fcf507d9224ed7367d662b8304c3caa5bdfff32c8ee04bb2fea281a2d84e1b
+  _cache: 281285cf08129f61ffb17f22749018ba1b883d5750a85b0177bb24368bd00adc
+- id: https://doi.org/10.1093/ofid/ofad001
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=1b7a7a4c-0f0a-48d9-a253-927c35e60bb8redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjofidzjarticlezjdoizj10zw1093zjofidzjofad001zj6974689
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: images/paper_images/scv-2.jpg
+  _cache: 4afb76ff5dd834322480b73008fcd6e2ce60b0447138244406346fedb7bbc168
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
@@ -125,31 +138,6 @@
   - student contributions
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
   _cache: cd0de6ed3cd410a3bd4277dea0835dd940e32de0e12a9bbcaa582946a5aad309
-- id: doi:10.1101/2022.05.26.22275279
-  title: Shared within-host SARS-CoV-2 variation in households
-  authors:
-  - Katharine S. Walter
-  - Eugene Kim
-  - Renu Verma
-  - Jonathan Altamirano
-  - Sean Leary
-  - Yuan J. Carrington
-  - Prasanna Jagannathan
-  - Upinder Singh
-  - Marisa Holubar
-  - Aruna Subramanian
-  - Chaitan Khosla
-  - Yvonne Maldonado
-  - Jason R. Andrews
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-05-27'
-  link: https://doi.org/grgkzs
-  tags:
-  - sars-cov-2
-  - genomics
-  - student contributions
-  image: images/paper_images/scv-2.jpg
-  _cache: 7e8abf20399f92054342396a4849f8dd3b09e8e79e545196e262f6079970b4d6
 - id: doi:10.1093/cid/ciac312
   title: 'Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated
     Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase
