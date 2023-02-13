@@ -1,8 +1,7 @@
----
-title: Research
+title: Publications
 nav:
-  order: 1
-  tooltip: What we study
+  order: 2
+  tooltip: Our publications
 ---
 
 # <i class="fas fa-microscope"></i>Research
