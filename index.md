@@ -26,15 +26,6 @@ Pathogen evolution creates an extraordinary epidemiological record and staggerin
 %}
 
 {%
-  include link.html
-  link="opportunities"
-  text="Current opportunities"
-  icon="fas fa-arrow-right"
-  flip=true
-%} 
-{:.center} {% endcapture %}
-
-{%
   include feature.html
   image="images/action/brazil_students.jpg"
   link="opportunities"
