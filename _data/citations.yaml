@@ -33,7 +33,7 @@
 - id: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
   title: ''
   authors: []
-  publisher: ''
+  publisher: OFID
   date: ''
   link: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
   tags:
@@ -41,7 +41,7 @@
   - genomics
   - student contributions
   image: images/paper_images/scv-2.jpg
-  _cache: c6e847b9f9e4cc22881d0bb131184575f6c524628fe9507c54dd8b70dbdc7d07
+  _cache: f0194bcc9720c9bbb87c333d4b79cf79dd873ab19687fa5275b240e4e4c0eaba
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
