@@ -8,6 +8,7 @@
   image: images/paper_images/pgy_phylogeny.jpg
 
 - id: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
+  publisher: OFID
   tags:
   - sars-cov-2
   - genomics
