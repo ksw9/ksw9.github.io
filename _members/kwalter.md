@@ -15,4 +15,4 @@ aliases:
 
 Katharine is interested in how environmental changes--including climate change, habitat transformation, and mass incarceration--shape our pathogen exposures and determine who gets sick. She is committed to mentoring the next generation of scientists and public health advocates. 
 
-Outside of work, she is often looking for her snowboots for a walk to the local bookshop.
+Outside of work, she is often at the nearby trailhead.
