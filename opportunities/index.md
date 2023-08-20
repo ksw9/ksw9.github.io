@@ -7,18 +7,17 @@ nav:
 
 # <i class="fas fa-microscope"></i>Current Opportunties
 
-We are committed to creating an inclusive, safe research community that, in particular, invites and supports students from groups historically underrepresented in the sciences. We are committed to anti-racist, anti-imperialist, abolitionist research praxis and group culture. We are highly collaborative and uninterested in perpetuating hierarchies—lab members are valued as co-constructors of knowledge and part of a supportive research community. 
+We are committed to creating an inclusive, safe research community that, in particular, invites and supports students from groups historically underrepresented in the sciences. We are committed to anti-racist, anti-imperialist, abolitionist research program and group culture. We are highly collaborative—lab members are valued as co-constructors of knowledge and part of a supportive research community. 
 
 {% include section.html %}
 
 ## Current projects
 
-We are thrilled to be starting off at the University of Utah and have many current opportunities for students interested in epidemiology, evolution, computation, and health justice. Please reach out to discuss your interests—we’re looking forward to meeting you and learning with you!
+We have many open opportunities for students interested in epidemiology, evolution, computation, and health justice. Please reach out to discuss your interests—we’re looking forward to meeting you and learning with you!
 
--	Documenting the hidden risk of tuberculosis within US prisons and jails (epidemiology)
--	Identifying hotspots of tuberculosis transmission in Paraguay (spatial epidemiology) 
--	Measuring the impact of climate change on risk of pathogenic Nontuberculous mycobacteria (metagenomics, climate modeling)
--	Investigating the pathogenic potential of Great Salt Lake Dust (metagenomics)
+-	Measuring the impact of climate change on changing distribution of zoonotic reservoirs of Valley fever fungus (ecology, spatial modeling)
+- Reconstructing the emergence of Coccidioides across the American west (evolution, genomics)
+-	Investigating the pathogenic potential of Great Salt Lake Dust (ecological genomics, epidemiology)
 
 ## Undergraduates
 
@@ -35,7 +34,7 @@ We are excited to work with students from the [Biosciences PhD Program](https://
 
 ## Postdoctoral & medical fellows
 
-[Wilkes Postdoctoral Fellowship](https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/) (due March 15, 2023): we are excited to work with applicants for this new climate science fellowship.
+[Wilkes Postdoctoral Fellowship](https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/) (next cycle spring 2024): we are excited to work with applicants for this new climate science fellowship.
 
 
 There are many additional sources of NSF, NIH, and foundation funding to support students and fellows. 
