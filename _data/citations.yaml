@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1101/2023.03.16.23287381
+  title: Rapid emergence and transmission of virulence-associated mutations in the
+    oral poliovirus vaccine following vaccination campaigns
+  authors:
+  - Katharine S. Walter
+  - Jonathan Altamirano
+  - ChunHong Huang
+  - Yuan J. Carrington
+  - Frank Zhou
+  - Jason R. Andrews
+  - Yvonne Maldonado
+  publisher: medRxiv
+  date: '2023-03-21'
+  link: https://www.medrxiv.org/content/10.1101/2023.03.16.23287381v1
+  tags:
+  - evolution
+  - poliovirus
+  - student contributions
+  image: https://pubmed.ncbi.nlm.nih.gov/36993386/#&gid=article-figures&pid=figure-3-uid-2
+  _cache: 6a8d8bdcd0231ada4df7e054ed209e901731599968f21fe7b1e6bd89283128eb
 - id: https://doi.org/10.1038/s41467-023-35813-9
   title: Phylogeography and transmission of Mycobacterium tuberculosis spanning prisons
     and surrounding communities in Paraguay
