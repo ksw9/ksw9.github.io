@@ -3,4 +3,4 @@
 <h1 align="center">Evo-Epi Laboratory</h1>
 <p align="center">
 
-Welcome! Our lab website design uses the [template](https://github.com/greenelab/lab-website-template) created by the Green Lab. 
+Welcome! Source code for the Evo-Epi Laboratory [website](https://ksw9.github.io/).
