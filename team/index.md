@@ -62,8 +62,8 @@ Our work is made possible by funding from several organizations.
   link2="https://www.niaid.nih.gov/"
   tooltip2="NIH/NIAID"
 
-  image3=https://wilkescenter.utah.edu/wp-content/uploads/sites/42/2023/07/The-Wilkes-Center-Logo_main-black-1536x424.png
-  link3=https://wilkescenter.utah.edu/
+  image3="https://wilkescenter.utah.edu/wp-content/uploads/sites/42/2023/07/The-Wilkes-Center-Logo_main-black-1536x424.png"
+  link3="https://wilkescenter.utah.edu/"
   tooltip3="Wilkes Center for Climate Science & Policy"
 
 %}
