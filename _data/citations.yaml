@@ -1,7 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: https://doi.org/10.1101/2023.03.16.23287381
+- id: https://doi.org/10.1183/2312508X.10025522
+  title: Log in | European Respiratory Society
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://books.ersjournals.com/user/login?auth=no&external_destination=https%3A%2F%2Freader%2Eersjournals%2Ecom%2Flogin%2FpassiveLogin%3Ftarget%3Dhttps%3A%2F%2Freader%2Eersjournals%2Ecom%2Fthe-challenge-of-tuberculosis-in-the-21st-century%2F269%3Freauthenticate
+  tags:
+  - tb
+  - incarceration
+  - student contributions
+  _cache: 16eee3dc9ada2305d49df843a4dd5befb458c99a9bcc441a4dcbf639f37215a1
+- id: https://doi.org/10.1101/2023.12.28.23300451
+  title: Signatures of transmission in within-host M. tuberculosis variation
+  authors:
+  - Katharine S. Walter
+  - Ted Cohen
+  - Barun Mathema
+  - Caroline Colijn
+  - Benjamin Sobkowiak
+  - "I\xF1aki Comas"
+  - Galo A. Goig
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: medRxiv
+  date: '2023-12-29'
+  link: https://www.medrxiv.org/content/10.1101/2023.12.28.23300451v1
+  tags:
+  - genomics
+  - tb
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/12/29/2023.12.28.23300451/F4.medium.gif
+  _cache: aef0c66e9a6ad4b26b65f7afbfa80d5be4472688b74436e0eb6d1e8a4490fecb
+- id: https://doi.org/10.1038/s41541-023-00740-9
   title: Rapid emergence and transmission of virulence-associated mutations in the
     oral poliovirus vaccine following vaccination campaigns
   authors:
@@ -12,15 +43,36 @@
   - Frank Zhou
   - Jason R. Andrews
   - Yvonne Maldonado
-  publisher: medRxiv
-  date: '2023-03-21'
-  link: https://www.medrxiv.org/content/10.1101/2023.03.16.23287381v1
+  publisher: npj Vaccines
+  date: '2023-09-25'
+  link: https://www.nature.com/articles/s41541-023-00740-9
   tags:
   - evolution
   - poliovirus
   - student contributions
-  image: https://www.medrxiv.org/content/medrxiv/early/2023/03/21/2023.03.16.23287381/F3.medium.gif
-  _cache: 66e68fc90cf715b265238b020aa6ccf4e7a45fccc83eb44e1be81dd8a0a26bc4
+  image: https://www.nature.com/articles/s41541-023-00740-9/figures/1
+  _cache: c2e4c0ebbbe2b61b1c4f509c86b790ec216fcdbe8fa08fcb205bf2e013dec9c2
+- id: http://dx.doi.org/10.5588/ijtld.22.0642
+  title: Use of rapid molecular TB diagnostics for incarcerated people in Brazil
+  authors:
+  - E. B. Fajer
+  - F. D. Costa
+  - D. M. Pelissari
+  - F. A. Diaz Quijano
+  - A. Coelho de Brito
+  - E. A. T. Cunha
+  - J. Croda
+  - J. R. Andrews
+  - K. S. Walter
+  publisher: The International Journal of Tuberculosis and Lung Disease
+  date: '2023-05-01'
+  link: http://dx.doi.org/10.5588/ijtld.22.0642
+  tags:
+  - tb
+  - student 1st author
+  - incarceration
+  image: https://www.medrxiv.org/content/medrxiv/early/2021/12/02/2021.11.30.21266839/F3/graphic-3.medium.gif
+  _cache: 3ab7e5d9ca2fec2a85990459950108d6cef62c5d6ca13c8b0ccb47054b9abef5
 - id: https://doi.org/10.1038/s41467-023-35813-9
   title: Phylogeography and transmission of Mycobacterium tuberculosis spanning prisons
     and surrounding communities in Paraguay
@@ -50,18 +102,18 @@
   - student contributions
   image: images/paper_images/pgy_phylogeny.jpg
   _cache: 281285cf08129f61ffb17f22749018ba1b883d5750a85b0177bb24368bd00adc
-- id: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
+- id: https://doi.org/10.1093/ofid/ofad001
   title: ''
   authors: []
-  publisher: OFID
+  publisher: ''
   date: ''
-  link: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
+  link: https://doi.org/10.1093/ofid/ofad001
   tags:
   - sars-cov-2
   - genomics
   - student contributions
-  image: images/paper_images/scv-2.jpg
-  _cache: f0194bcc9720c9bbb87c333d4b79cf79dd873ab19687fa5275b240e4e4c0eaba
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ofid/10/2/10.1093_ofid_ofad001/1/m_ofad001f2.jpeg?Expires=1706228849&Signature=1Kj-0qokT9q239KoeI3B8lxyYT5yRZyJhY6tq3qIaFb4lmhHovdNXfUQUjgdBQc1Kh1Amb6RdeXETwXI-g0c9bm~rMLpZsY3vQfaudGf8IDDyZj-ECYxsUDKtkHmZY-ntz4XxLG4nWRAwU1-zdbgcpUhEI1WsXfeuGikL5Lu30zHDQWSaWDHpqmDQpsDKb6OIanRhZRBafyaeciu23Oi5AQvpZ8vga6xeD~U7C6sOXc6Nk2n3zV5HusEjkv6r8UtR8vkp~Ukx~pL~LyKNh60922t~RL67uKVVK31GxoqZxME7X7epvcu4kOV4RCEwM6NYLg~8sO6pWOuc3IlcPGBaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 29f2a31164694258c2cce58b58da302a1ff8d2f5e21154c25168e5971413d498
 - id: doi:10.5588/ijtld.21.0449
   title: The effect of incarceration on TB treatment outcomes
   authors:
