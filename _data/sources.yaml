@@ -1,9 +1,28 @@
-- id: https://doi.org/10.1101/2023.03.16.23287381 
+- id: https://doi.org/10.1183/2312508X.10025522
+  tags: 
+  - tb
+  - incarceration
+  - student contributions
+
+- id: https://doi.org/10.1101/2023.12.28.23300451 
+  tags:
+  - genomics
+  - tb
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/12/29/2023.12.28.23300451/F4.medium.gif
+
+- id: https://doi.org/10.1038/s41541-023-00740-9
   tags:
   - evolution
   - poliovirus
   - student contributions
-  image: https://www.medrxiv.org/content/medrxiv/early/2023/03/21/2023.03.16.23287381/F3.medium.gif
+  image: https://www.nature.com/articles/s41541-023-00740-9/figures/1
+
+-id: http://dx.doi.org/10.5588/ijtld.22.0642
+  tags:
+  - tb
+  - student 1st author
+  - incarceration
+  image: https://www.medrxiv.org/content/medrxiv/early/2021/12/02/2021.11.30.21266839/F3/graphic-3.medium.gif
   
 - id: https://doi.org/10.1038/s41467-023-35813-9
   tags:
@@ -14,13 +33,12 @@
   - student contributions
   image: images/paper_images/pgy_phylogeny.jpg
 
-- id: https://academic.oup.com/ofid/article/10/2/ofad001/6974689
-  publisher: OFID
+- id: https://doi.org/10.1093/ofid/ofad001
   tags:
   - sars-cov-2
   - genomics
   - student contributions
-  image: images/paper_images/scv-2.jpg
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ofid/10/2/10.1093_ofid_ofad001/1/m_ofad001f2.jpeg?Expires=1706228849&Signature=1Kj-0qokT9q239KoeI3B8lxyYT5yRZyJhY6tq3qIaFb4lmhHovdNXfUQUjgdBQc1Kh1Amb6RdeXETwXI-g0c9bm~rMLpZsY3vQfaudGf8IDDyZj-ECYxsUDKtkHmZY-ntz4XxLG4nWRAwU1-zdbgcpUhEI1WsXfeuGikL5Lu30zHDQWSaWDHpqmDQpsDKb6OIanRhZRBafyaeciu23Oi5AQvpZ8vga6xeD~U7C6sOXc6Nk2n3zV5HusEjkv6r8UtR8vkp~Ukx~pL~LyKNh60922t~RL67uKVVK31GxoqZxME7X7epvcu4kOV4RCEwM6NYLg~8sO6pWOuc3IlcPGBaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.5588/ijtld.21.0449
   tags:
