@@ -7,7 +7,7 @@
 - id: https://doi.org/10.1101/2023.12.28.23300451 
   tags:
   - genomics
-  - tb
+  - tb 
   image: https://www.medrxiv.org/content/medrxiv/early/2023/12/29/2023.12.28.23300451/F4.medium.gif
 
 - id: https://doi.org/10.1038/s41541-023-00740-9
@@ -23,7 +23,7 @@
   - student 1st author
   - incarceration
   image: https://www.medrxiv.org/content/medrxiv/early/2021/12/02/2021.11.30.21266839/F3/graphic-3.medium.gif
-  
+
 - id: https://doi.org/10.1038/s41467-023-35813-9
   tags:
   - tb
