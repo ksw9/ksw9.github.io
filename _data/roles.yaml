@@ -14,7 +14,7 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-research assistant:
+ra:
   icon: fas fa-code
   text: Research Assistant
 

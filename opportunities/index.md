@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Current Opportunties
 
-We are committed to creating an inclusive, safe research community that, in particular, invites and supports students from groups historically underrepresented in the sciences. We are committed to anti-racist, anti-imperialist, abolitionist research program and group culture. We are highly collaborative—lab members are valued as co-constructors of knowledge and part of a supportive research community. 
+We are committed to creating an inclusive, safe research community that invites and supports students from groups historically underrepresented in the sciences. We are committed to anti-racist, anti-imperialist, abolitionist research program and group culture. 
 
 We have many open opportunities for students interested in epidemiology, evolution, computational biology, and health justice. Please reach out to discuss your interests—we’re looking forward to meeting you and learning with you!
 
