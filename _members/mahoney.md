@@ -1,7 +1,7 @@
 ---
 name: Kailey Mahoney
 image: images/team/mahoney.jpg
-description: Master's student
+description: Undergraduate student
 role: undergrad
 
 ---
