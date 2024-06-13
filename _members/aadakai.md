@@ -1,6 +1,6 @@
 ---
 name: Ashlyn Adakai
-image: images/team/gaadakai.jpeg
+image: images/team/aadakai.jpeg
 description: Undergraduate student
 role: undergrad
 
