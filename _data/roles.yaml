@@ -14,6 +14,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
+ms:
+  icon: fas fa-glasses
+  text: Master's student
+
 ra:
   icon: fas fa-glasses
   text: Research Assistant
