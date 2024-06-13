@@ -1,6 +1,6 @@
 ---
 name: Raniah Corrian
-image: images/team/rcorrian.jpeg
+image: images/team/rcorrian.jpg
 description: Undergraduate student
 role: undergrad
 
