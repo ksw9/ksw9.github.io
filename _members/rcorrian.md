@@ -1,7 +1,7 @@
 ---
 name: Raniah Corrian
 image: images/team/rcorrian.jpg
-description: Undergraduate student
+description: Alumni
 role: alumni
 
 ---

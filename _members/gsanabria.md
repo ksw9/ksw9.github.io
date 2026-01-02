@@ -1,9 +1,9 @@
 ---
 name: Gladys Estigarribia Sanabria
 image: images/team/gsanabria.jpeg
-description: Graduate student
+description: Alumni
 role: alumni
 
 ---
 
-Gladys is a graduate student at the Instituto Regional de Investigación en Salud in Caaguazú, Paraguay studying M. tuberculosis genomic epidemiology.
+Gladys received her PhD from the Instituto Regional de Investigación en Salud in Caaguazú, Paraguay, where she studied M. tuberculosis genomic epidemiology.

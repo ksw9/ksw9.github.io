@@ -36,6 +36,7 @@ nav:
 {%
   include list.html
   data="members"
+  component="list"
   filters="role: alumni"
 %}
 {:.center}
