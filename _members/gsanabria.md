@@ -2,7 +2,7 @@
 name: Gladys Estigarribia Sanabria
 image: images/team/gsanabria.jpeg
 description: Graduate student
-role: phd
+role: alumni
 
 ---
 

@@ -2,7 +2,7 @@
 name: Ashlyn Adakai
 image: images/team/aadakai.jpeg
 description: Undergraduate student
-role: undergrad
+role: alumni
 
 ---
 
