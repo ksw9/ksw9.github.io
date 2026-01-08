@@ -1,6 +1,6 @@
 ---
 name: Katharine S. Walter, PhD
-image: images/team/walter_ACS_2024.jpeg
+image: images/team/walter_ACS_2024.jpg
 description: PI
 role: pi
 links:
