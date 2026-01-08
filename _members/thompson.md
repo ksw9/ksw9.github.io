@@ -1,7 +1,7 @@
 ---
 name: Richard Thompson
 image: images/team/thompson.jpg
-role: grad
+role: phd
 description: Graduate student
 
 ---

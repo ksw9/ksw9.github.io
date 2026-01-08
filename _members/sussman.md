@@ -1,8 +1,8 @@
 ---
 name: Jacob Sussman
 image: images/team/sussman.jpeg
-description: Undergraduate student
-role: undergrad
+description: Alumni
+role: alumni
 aliases:
   - Jacob Sussman
 
